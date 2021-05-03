@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on Github
 - 🥅 2021 Goals: Be a better human 
 - 💬 Ask me about anything
-- 📬 How to reach me: aniketindian8@gmail.com 
+- 📬 How to reach me: 
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Oneday I will make it happen 
 
