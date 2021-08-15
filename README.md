@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rituraj Tripathy</h1>
+<h1 align="center">Hello World!! 👋, I'm Rituraj Tripathy</h1>
 <h3 align="center">A Passionate Android Developer</h3>
 
 - 🔭 I’m currently working on **My Development Skills**
