@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Flutter Developement**
 
-- 💬 Ask me about **Flutter, C++, JAVA**
+- 💬 Ask me about **Solidity, MERN stack, Javascript, Flutter, C++, JAVA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
